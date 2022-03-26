@@ -1,0 +1,78 @@
+.navbar {
+    font-size: 16px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    padding: 0 30px;
+    color: white;
+    transition: 0.3 ease;
+}
+
+.navbar i{
+    font-size: 1.2rem;
+    padding:0 7px;
+    cursor:pointer;
+    transition: 0.3 ease;
+    color: yellow;
+}
+
+.active-filter-btn{
+    background-color: var(--yellow)!important;
+    color: black;
+    border-color: var(--yellow)!important;
+}
+
+.Recc{
+    text-align: justify;
+    padding: 20px 0px;
+    margin-left:70px;
+}
+
+.recomended-img span{
+    top: 20px;
+    right: 20px;
+    width: 46px;
+    height: 46px;
+    border-radius: 50%; 
+}
+
+.text-primary{
+    color: var(--yellow)!important;
+}
+
+.Recc2{
+    text-align: justify;
+    padding: 20px 0px;
+    margin-left:70px;
+}
+
+.Recc3{
+    text-align: justify;
+    padding: 20px 0px;
+    margin-left:70px;
+}
+
+.Recc4{
+    text-align: justify;
+    padding: 20px 0px;
+    margin-left:70px;
+}
+
+.footer{
+    background-color: black;
+}
+
+.footer h5{
+    color: white;
+    font-weight: 700;
+    font-size: 1.2rem;
+}
+
+.footer p{
+    color: white;
+    font-size: 0.8rem;
+}
+
+.text-uppercase{
+    color: white;
+}
